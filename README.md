@@ -1,4 +1,9 @@
-Author: Prajakta Pawar
+👩‍💻 Author
+Prajakta More
+EXTC Engineer | Data Analyst | Aspiring Data Scientist
+Power BI, Tableau & Python Enthusiast
+Turning data into insights using ML, SQL, Excel & storytelling.
+
 Date: April 2025
 
 ## **Overview**  
