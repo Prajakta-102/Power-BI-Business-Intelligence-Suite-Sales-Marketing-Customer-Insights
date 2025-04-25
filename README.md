@@ -1,8 +1,3 @@
-👩‍💻 Author
-Prajakta More
-EXTC Engineer | Data Analyst | Aspiring Data Scientist
-Power BI, Tableau & Python Enthusiast
-Turning data into insights using ML, SQL, Excel & storytelling.
 
 Date: April 2025
 
@@ -116,4 +111,13 @@ The project focuses on:
 - **Integration with real-time data sources** for live updates.  
 - **Predictive analytics** for forecasting future sales and marketing performance.  
 - **AI-powered recommendations** for optimizing ad spend and increasing revenue.  
-- **Customer segmentation improvements** using machine learning for better targeting.  
+- **Customer segmentation improvements** using machine learning for better targeting.
+
+---
+
+  ## 👩‍💻 Author
+Prajakta More
+EXTC Engineer | Aspiring Data Analyst & Data Scientist |
+Power BI, Tableau & Python Enthusiast
+Turning data into insights using ML, SQL, Excel & storytelling.
+
